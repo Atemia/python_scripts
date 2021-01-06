@@ -1,4 +1,4 @@
-# instagram code qick qiz
+# instagram code qick question
 def mangle(x):
     c = "python"
     x = x[::-1]
